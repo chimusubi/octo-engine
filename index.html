@@ -18,14 +18,34 @@
 
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/style.css">
 
   <meta name="theme-color" content="#fafafa">
 </head>
 
 <body>
 
-  <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
+
+<!-- Add your site or application content here -->
+  <div id="container">
+    <h1>Resortopia — Screening Room Guide</h1>
+    <p>Select movie wishes and click add button to see desired category</p>
+    <select name="wish" id="wish">
+    </select>
+
+    <button type="button" id="button">add</button>
+
+    <div id="categories">
+      <h3>Categories</h3>
+      <ol id="results-list">
+      </ol>
+    </div>
+
+    <div id="reader"></div>
+
+  </div>
+
+
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>

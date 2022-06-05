@@ -1,0 +1,378 @@
+1
+ID		Wish	Genre																																							
+2
+101		The protagonist doesn't have to look good, but the story has to be interesting!	Drama																																							
+3
+102		Wanna watch a movie with an epic story!																																							
+4
+103		Wanna see an interesting movie with a tight plot.																																							
+5
+104		I really wanna watch a movie with a terrific plot.																																							
+6
+105		A movie with great acting, plz!																																							
+7
+106		I heard this one has an amazing twist. I really wanna watch it.																																							
+8
+107		This movie is already blowing up on the internet.																																							
+9
+10
+201		Wanna watch an exciting adventure.	Adventure																																							
+11
+202		I'm really into the mystery and thrill of the unknown.																																							
+12
+203		Wanna watch a great masterpiece about a journey.																																							
+13
+204		Yearning for a glamorous journey.																																							
+14
+205		I want to see a great actor's risky magnum opus.																																							
+15
+206		I want to explore the unknown with the protagonist. It's going to be thrilling.																																							
+16
+207		Our ultimate destination is the great unknown!																																							
+17
+18
+301		What's better than laughing happily?	Comedy																																							
+19
+302		I love watching outlandish comedy!																																							
+20
+303		I'm in short supply of laughter right now.																																							
+21
+304		I haven't had a good laugh in a long time. I'd love to experience it again.																																							
+22
+305		Happiness is the most important thing in life.																																							
+23
+306		If I laugh hard enough, does it count as an ab workout? I just wanna laugh hard enough																																							
+24
+307		My friend went through a break-up recently. We're in urgent need of something happy.																																							
+25
+26
+401		I want to watch a fun movie for all ages.	Animation																																							
+27
+402		My kids like this movie too.																																							
+28
+403		There's something feel-good about colorful worlds. I'm looking forward to it.																																							
+29
+404		I'm looking for a movie that's about childhood joy and delights.																																							
+30
+405		I want to bring my kids with me to the movie!																																							
+31
+406		This was my favorite film as a child. I'm looking forward to revisiting it.																																							
+32
+407		I love the style of this movie. It's so cute.																																							
+33
+34
+501		Wanna watch a true story full of happiness and sadness!	Biography																																							
+35
+502		Wanna witness the legendary life of the protagonist on the screen.																																							
+36
+503		I've heard about the real-life story this movie is based on.																																							
+37
+504		What he went through was really moving.																																							
+38
+505		Her story would make for a great movie.																																							
+39
+506		I want to follow along with the protagonist's struggles.																																							
+40
+507		I never knew a person's life could get so bizarre.																																							
+41
+42
+601		Seeing such extraordinary powers and technology was an eye-opening experience!	Sci-Fi																																							
+43
+602		I get to see how far technology has come with these top-notch visuals and sound effects.																																							
+44
+603		I adore sci-fi and fantasy worlds!																																							
+45
+604		I was taken in by the surreal visuals in the trailer. I won’t miss it!																																							
+46
+605		I want to explore the mysteries of space-time through stories on the big screen.																																							
+47
+606		I'm fascinated by the drive to explore the unknown.																																							
+48
+607		I'd like to watch a film that fills in what could happen in space.																																							
+49
+50
+701		I'd love to experience that kind of earth-shattering love for myself.	Romance																																							
+51
+702		I hope love finds me too after this flick.																																							
+52
+703		Today's another good day to root for a sweet couple's love life.																																							
+53
+704		I'm super drawn to stories that are simultaneously sweet and touching.																																							
+54
+705		Going on my first date with a hot guy. What movie should we watch?																																							
+55
+706		If only I could take the female lead's place in the film and be in love with the male lead instead.																																							
+56
+707		Life's been rough. I want to watch something sweet.																																							
+57
+58
+801		Woohoo! A whole new world of imagination just for me to enjoy!	Fantasy																																							
+59
+802		I want to watch a movie that contains magic or supernatural elements!																																							
+60
+803		What a grotesque and colorful storyline. It's brilliant!																																							
+61
+804		The only way to live out my fantasies of becoming a magician is through movies.																																							
+62
+805		I want to have superpowers like the protagonist in the film!																																							
+63
+806		I'm sure magic exists somewhere in the world.																																							
+64
+807		This is that infamous epic fantasy saga!																																							
+65
+66
+901		The world needs more heroes!	Hero																																							
+67
+902		I've been following the series since the first film. I love watching him save the world.																																							
+68
+903		I love movies that have the same feel as ultraman.																																							
+69
+904		Did the protagonist unlock a new superpower?																																							
+70
+905		The super villain in this movie seems super powerful. Can the protagonist win?																																							
+71
+906		I feel safe knowing they're the ones protecting the world.																																							
+72
+907		I want to be moved by their powerful friendship, beliefs, and sense of justice.																																							
+73
+74
+1001		Oh, my heart is aflutter when I look into their eyes.	Animals																																							
+75
+1002		These cute fuzzy angels are always at our side!																																							
+76
+1003		I can't resist cute animals.																																							
+77
+1004		I have a soft spot for heartwarming movies like this after having a pet of my own.																																							
+78
+1005		Really wanna explore the forest with the adorable fuzzy protagonist.																																							
+79
+1006		I have pets of my own, so I love this kind of film.																																							
+80
+1007		As a petkeeper, I find I can better relate to movies about them.																																							
+81
+82
+1101		The intense fight scenes in the trailer are visually stunning.	Action																																							
+83
+1102		I want to watch a movie that gives me an adrenaline rush!																																							
+84
+1103		
+I don’t have the courage to do such dangerous things in real life, but I can experience them in movies vicariously!
+85
+1104		I love, love his movies! He's got smooth moves and lightning quick reflexes!																																							
+86
+1105		Everything he does is so realistic. I watch every movie he's in.																																							
+87
+1106		I want to watch hot, buff guys fight against each other. Hehe.																																							
+88
+1107		I've gotten distracted staring at the protagonist in the poster several times. He's so hot.																																							
+89
+90
+1201		I heard this movie will let you laugh till you cry, and then laugh again.	Comforting																																							
+91
+1202		Today sucked. Hoping to find a movie to ease my mood.																																							
+92
+1203		Just wanna experience something warm and full of hope.																																							
+93
+1204		A friend recommended this film. Says it beautiful and heartwarming.																																							
+94
+1205		I've been feeling a little sad, so I'm looking for a little pick-me-up.																																							
+95
+1206		I'm looking for a masterpiece that shows how good life can be.																																							
+96
+1207		
+The movie places emphasis on what one can achieve by being gentle. I'm looking forward to it.
+97
+98
+1301		It's a 100% tear-jerker no matter how many times you watch it.	Touching																																							
+99
+1302		Warm yet heartbreaking. My favorite.																																							
+100
+1303		Wanna cry my heart out.																																							
+101
+1304		I don't cry easily. Give me the best tear-jerker you've got.																																							
+102
+1305		This is my third viewing. I find something new to cry over every time.																																							
+103
+1306		I've brought tissues for my tears. I'm ready!																																							
+104
+1307		Crying is a great stress reliever, you know. I need this film now.																																							
+105
+106
+1401		I can relate to the characters in movies that take place in office buildings.	Urban																																							
+107
+1402		I like seeing how the protagonists deal with the ups and downs in their life.																																							
+108
+1403		I'm curious if they'll introduce something new to these movies about city life.																																							
+109
+1404		I like watching movies that take place in this bustling world.																																							
+110
+1405		Everyone appreciates a busy life in their own way.																																							
+111
+1406		Wanna watch a story about the common people in a bustling city.																																							
+112
+1407		I like stories that take place in modern cities. It feels realistic.																																							
+113
+114
+1501		I heard there's a movie with a masterful soundtrack?	Music																																							
+115
+1502		I'm here for the original soundtrack!																																							
+116
+1503		I've listened to the soundtrack before coming to watch it.																																							
+117
+1504		I love a movie that applies music to accentuate the protagonist's emotions.																																							
+118
+1505		I'm really into soundtracks. I'm hoping some movies can deliver good ones.																																							
+119
+1506		Do you know any movies I can sing along to?																																							
+120
+1507		I want to immerse myself in music while watching a movie.																																							
+121
+122
+1601		This director has a tendency of only revealing the story at the last minute.	Suspense																																							
+123
+1602		That was amazing! I'd watch it even if it gives me nightmares!																																							
+124
+1603		Any movie that requires high intelligence and deductive skills?																																							
+125
+1604		Wanna watch a movie that challenges my intellect!																																							
+126
+1605		Wanna watch a movie with an unpredictable ending!																																							
+127
+1606		Who's the real culprit behind everything?																																							
+128
+1607		I love amazing plot twists. It keeps me guessing the whole time.																																							
+129
+130
+1701		I want to watch a movie where humans defeat nature.	Disaster																																							
+131
+1702		Wanna discover the meaning of life in a disaster movie.																																							
+132
+1703		Will the protagonist be able to survive?																																							
+133
+1704		Sudden disasters are thrilling to watch.																																							
+134
+1705		Maybe I'll learn something about what to do in a disaster from the movie.																																							
+135
+1706		I wanna watch a suspenseful doomsday movie.																																							
+136
+1707		I love to see the beauty of humanity in the face of tragedy.																																							
+137
+138
+1801		The poster makes me wanna dance with the protagonist.	Musical																																							
+139
+1802		I love the classic and elegant choreograph, so attractive.																																							
+140
+1803		The actor's voice and dance moves stole my heart away.																																							
+141
+1804		I want to dance alongside the protagonist on the big screen.																																							
+142
+1805		Ohh, I want to be moved to tears by gorgeous dance moves today!																																							
+143
+1806		I want to sing and dance with the actors!																																							
+144
+1807		They say the music and choreography in this movie is the best ever done.																																							
+145
+146
+1901		The mysteries of the universe are fascinating.	Space																																							
+147
+1902		The depths of space spark my imagination.																																							
+148
+1903		I fantasize about the mysteries of the universe.																																							
+149
+1904		Outer space is the great unknown!																																							
+150
+1905		Every star holds limitless secrets to explore.																																							
+151
+1906		Any movies about escaping earth to explore the unknown?																																							
+152
+1907		Anyone want to watch a space movie with me?																																							
+153
+154
+2001		I never get tired of the classics.	Period																																							
+155
+2002		I love the thrill of period dramas.																																							
+156
+2003		Drama in ancient times just hits differently.																																							
+157
+2004		Traditional culture is intriguing!																																							
+158
+2005		Life in ancient times is really fascinating!																																							
+159
+2006		I love the props and costumes in movies set in ancient times.																																							
+160
+2007		I want to experience life in ancient times through the movie!																																							
+161
+162
+2101		No matter how bad it gets, there's always light at the end of the tunnel.	Inspirational																																							
+163
+2102		Never give up on your dreams. They could come true one day.																																							
+164
+2103		I need positive vibes!																																							
+165
+2104		Hold on to hope! Never give up!																																							
+166
+2105		Life is all about never giving up.																																							
+167
+2106		I've been feeling down lately. I need a passionate movie to reignite that spark!																																							
+168
+2107		I heard the protagonist's struggles are based on real life events.																																							
+169
+170
+2201		A time machine would be fantastic	Time-Travel																																							
+171
+2202		I wish I could go back in time too.																																							
+172
+2203		I wonder how modern people would handle living in ancient times?																																							
+173
+2204		The feelings they still have for each other after so many years is amazing.																																							
+174
+2205		I wish I could experience the past for myself.																																							
+175
+2206		I'd love to see what a modern person does when they go back in time.																																							
+176
+2207		I love time travel movies!																																							
+177
+178
+2301		I can't resist giant mechas!	Robots																																							
+179
+2302		What does the rapid development of artificial intelligence truly mean for mankind?																																							
+180
+2303		The sound of electricity gets me all fired up.																																							
+181
+2304		Humans gave life to cold lifeless machines!																																							
+182
+2305		The technology involved in making this colossus is so cool!																																							
+183
+2306		I want to see these giant machines fight against each other!																																							
+184
+2307		What happens to humanity after transforming ourselves with machinery?																																							
+185
+186
+2401		Can humans really subdue such giant awesome aggressive creatures?	Monster																																							
+187
+2402		These grotesque monsters make me scream every time.																																							
+188
+2403		It's so thrilling to watch giant prehistoric creatures fight against each other!																																							
+189
+2404		The visual effects are excellent! The monsters look like they're about to jump out from the screen.																																							
+190
+2405		Looks can be deceiving. A person can be kind under their terrifying exterior.																																							
+191
+2406		Giant powerful creatures are the best!																																							
+192
+2407		I think my heart would stop if that thing pounced on me.																																							
+193
+194
+2501		Any movies that will make me hungry?	Culinary																																							
+195
+2502		I love how the director focuses on the people and food in the kitchen.																																							
+196
+2503		The best measuring stick for a movie like this is whether or not it makes me hungry.																																							
+197
+2504		I don't want to overeat so I'll just admire the food on the screen.																																							
+198
+2505		This movie is going to tickle my taste buds.																																							
+199
+2506		I'm not drooling. That's just my tears...																																							
+200
+2507		A comfort movie that also makes me hungry. My favorite.
